@@ -1,0 +1,28 @@
+# --- Secrets -----------------------------------------------------------------
+# Holds the database user and password in plaintext. Deploy this file manually;
+# never commit it.
+config/con.php
+
+# --- Live application data (not website source) -------------------------------
+# Files/ doubles as the OJS journal system's files_dir for journal.act.ac.rw
+Files/
+
+# --- Local backups, not for deployment ---------------------------------------
+# Pre-optimisation originals of the site photos (~366 MB)
+images_originals/
+
+# --- Logs & runtime -----------------------------------------------------------
+error_log
+*.log
+php_errorlog
+
+# --- Local tooling / editor ---------------------------------------------------
+.claude/
+.vscode/
+.idea/
+
+# --- OS cruft -----------------------------------------------------------------
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
