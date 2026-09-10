@@ -24,7 +24,7 @@
         .no-course-notice {
           background: #ffffff;
           border: 1px solid #e2e2e2;
-          border-left: 4px solid #b08d57;
+          border-left: 4px solid #4a6329;
           border-radius: 6px;
           padding: 40px 35px;
           text-align: center;
@@ -34,14 +34,14 @@
           height: 60px;
           margin: 0 auto 20px;
           border-radius: 50%;
-          background: #f4f1ea;
+          background: #eef4e8;
           display: flex;
           align-items: center;
           justify-content: center;
         }
         .no-course-notice .icon-wrap i {
           font-size: 26px;
-          color: #b08d57;
+          color: #4a6329;
         }
         .no-course-notice h3 {
           color: #1b2a4a;

@@ -344,12 +344,13 @@
         <div class="section-content">
           <div class="row mt-10">
             <div class="col-sm-12 col-md-6 mb-sm-20 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s">
-              <h3 class="text-uppercase mt-0">Welcome To <span class="text-theme-color-2"> Africa College of Theology </span></h3>
-              <p class="mb-15">Where knowledge meets faith and passion ignites purpose. At ACT, we are dedicated to nurturing minds, enriching souls, and empowering hearts. As a beacon of learning and enlightenment in Kigali, Rwanda, we invite you to embark on a transformative journey of discovery, growth, and service.</p>
-              <!--<p class="lead">Where knowledge meets faith and passion ignites purpose. At ACT, we are dedicated to nurturing minds, enriching souls, and empowering hearts. As a beacon of learning and enlightenment in Kigali, Rwanda, we invite you to embark on a transformative journey of discovery, growth, and service.</p>-->
-              <p class="mb-15">Our vibrant community of scholars, educators, and students from diverse backgrounds converges to explore the depths of theology, spirituality, and leadership. Through rigorous academic programs, innovative research initiatives, and hands-on experiential learning, we equip our graduates </p>
-              <p class="mb-10">Whether you're a prospective student, faculty member, or visitor, we extend a warm embrace and invite you to join us in our quest for truth, wisdom, and compassion. Together, let's embark on a journey of enlightenment, empowerment, and impact.</p>
-              <a class="btn btn-colored btn-theme-colored btn-lg text-uppercase font-13 mt-0" href="mission">View Details</a>
+              <h3 class="text-uppercase mt-0">About <span class="text-theme-color-2"> Africa College of Theology </span></h3>
+              <p class="mb-15">Africa College of Theology is an accredited theological institution in Kigali, Rwanda,
+                training redemptive servant leaders for the Church and society.</p>
+              <p class="mb-15">We offer graduate and undergraduate degrees, postgraduate diplomas and short courses &mdash;
+                grounded in Scripture, strengthened by research, and shaped by personal mentorship from a
+                dedicated faculty.</p>
+              <a class="btn btn-colored btn-theme-colored btn-lg text-uppercase font-13 mt-0" href="mission">About ACT</a>
             </div>
             <div class="col-sm-12 col-md-6 mt-0 wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.5s">
               <div class="video-popup">                
@@ -393,23 +394,6 @@
         </div>
       </div>
     </section>
-        <!-- Diver: Video Background  -->
-    <section class="divider parallax layer-overlay overlay-theme-colored-9" data-bg-img="images/backgrounds/bg1.jpg" data-parallax-ratio="0.7">
-      <div class="container pt-60 pb-70"> 
-        <!-- Section Content -->
-        <div class="section-content">
-          <div class="row">
-            <div class="col-md-10 col-md-offset-1 text-center">
-              <h3 class="text-white text-uppercase font-30 font-weight-600 mt-0 mb-20">Watch Our Latest Campus Tour video</h3>
-              <!--<p class="text-white lead">Lorem ipsum dolor sit amet, volupt consectetur adipisicing elit. Rem autem voluptatem obcaecat ipsum dolor sit tetur adipisicing elit amet, consec autem atem obcaecati!</p>-->
-              <a href="documents/act-promo-version-2.mp4" data-lightbox-gallery="youtube-video"><i class="fa fa-play-circle text-white font-72"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
    <!-- Divider: why choose us 1 -->
     <section class="divider parallax" data-bg-img="images/act/library-interior.jpg" data-parallax-ratio="0.7">
       <div class="container pt-0 pb-0">

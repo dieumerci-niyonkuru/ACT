@@ -49,6 +49,37 @@ $act_doc_title = ($act_slug === 'index')
     ? $page_title
     : $page_title . ' | Africa College of Theology';
 
+// Per-page meta description for search results and link previews.
+$act_descriptions = [
+    'index' => 'Africa College of Theology (ACT) is an accredited theological college in Kigali, Rwanda, training redemptive servant leaders through degrees, postgraduate diplomas and short courses.',
+    'mission' => 'The mission, vision and core values of Africa College of Theology - equipping redemptive servant leaders to serve Christ and transform communities in Rwanda and beyond.',
+    'history' => 'The history and founding of Africa College of Theology in Kigali, Rwanda.',
+    'philosophy' => 'The educational philosophy that shapes teaching, mentorship and formation at Africa College of Theology.',
+    'policies' => 'Academic and institutional policies of Africa College of Theology, available to download.',
+    'chancellor' => 'A welcome message from the Chancellor of Africa College of Theology.',
+    'principal' => 'A welcome message from Prof. Nathan Chiroma, Principal of Africa College of Theology.',
+    'concil' => 'Meet the Governing Board of Africa College of Theology.',
+    'staff' => 'Meet the faculty and staff of Africa College of Theology - scholars and practitioners who teach and mentor our students.',
+    'doctrinal' => 'The doctrinal statement of Africa College of Theology.',
+    'statement' => 'The statement of faith of Africa College of Theology.',
+    'request_form' => 'Download official academic request forms for Africa College of Theology students.',
+    'mat' => 'Master of Arts in Theology at Africa College of Theology - entry requirements, structure and how to apply.',
+    'pgd' => 'Postgraduate Diploma in Theology at Africa College of Theology - entry requirements, structure and how to apply.',
+    'pgc' => 'Postgraduate Certificate in Counselling at Africa College of Theology - entry requirements and how to apply.',
+    'ba' => 'Bachelor of Arts in Theology at Africa College of Theology - entry requirements, structure and how to apply.',
+    'short-course' => 'Short courses at Africa College of Theology for church leaders and lifelong learners.',
+    'fees' => 'Fees structure, admission policy, application forms and entry requirements for Africa College of Theology.',
+    'life' => 'Campus life at Africa College of Theology - worship, mentorship, student services and community.',
+    'student' => 'The Student Council of Africa College of Theology.',
+    'graduations' => 'Graduation at Africa College of Theology - ceremony details, past ceremonies and clearance forms.',
+    'library' => 'The Africa College of Theology library - over 29,000 volumes plus e-resources and journals.',
+    'news' => 'Latest news and events from Africa College of Theology.',
+    'gallery' => 'Photos of graduation, chapel worship, classrooms and campus life at Africa College of Theology.',
+    'contact' => 'Contact Africa College of Theology in Kigali, Rwanda - phone, email, department contacts and campus location.',
+];
+$act_meta_description = $act_descriptions[$act_slug]
+    ?? 'Africa College of Theology (ACT) Rwanda - training redemptive servant leaders through accessible, accredited theological education.';
+
 // Marks the nav item for the section currently being viewed.
 function act_nav_class($section, $current) {
     return $section === $current ? ' class="active"' : '';
@@ -67,9 +98,15 @@ function act_link_current($slug, $current) {
 <!-- Meta Tags -->
 <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
-<meta name="description" content="Africa College of Theology (ACT) Rwanda - training redemptive servant leaders through accessible, accredited theological education." />
-<meta name="keywords" content="ACT Rwanda, Africa College of Theology, theology Rwanda, Christian education Kigali" />
+<meta name="description" content="<?php echo htmlspecialchars($act_meta_description, ENT_QUOTES, 'UTF-8'); ?>" />
+<meta name="keywords" content="ACT Rwanda, Africa College of Theology, theology Rwanda, Christian education Kigali, theological college Rwanda" />
 
+<!-- Open Graph / link previews -->
+<meta property="og:site_name" content="Africa College of Theology" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="<?php echo htmlspecialchars($act_doc_title, ENT_QUOTES, 'UTF-8'); ?>" />
+<meta property="og:description" content="<?php echo htmlspecialchars($act_meta_description, ENT_QUOTES, 'UTF-8'); ?>" />
+<meta property="og:image" content="images/logo/act-logo.png" />
 
 <!-- Page Title -->
 <title><?php echo htmlspecialchars($act_doc_title, ENT_QUOTES, 'UTF-8'); ?></title>
