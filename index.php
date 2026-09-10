@@ -224,18 +224,6 @@
         font-size: 12.5px;
     }
 }
-.testimonial-wrapper .content {
-  background: rgba(0, 0, 0, 0.35);
-  border-radius: 8px;
-  padding: 20px 30px;
-  
-  font-family: 'Poppins', sans-serif;
-  font-weight: 500;
-  font-size: 18px;
-  line-height: 1.7;
-  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.8),
-               0 0 2px rgba(0, 0, 0, 0.9);
-}
 
   </style>
   <!-- Start main-content -->
@@ -547,49 +535,6 @@
         <div class="row visible-xs-block">
           <div class="col-xs-12 text-center">
             <a class="btn btn-theme-colored btn-sm" href="staff">All Faculty &amp; Staff</a>
-          </div>
-        </div>
-      </div>
-    </section>
-    
-    <!-- Section: Client Say -->
-    <section class="divider parallax layer-overlay overlay-dark-4" data-background-ratio="0.5" data-bg-img="images/act/benny207.jpg" style="background-color: rgba(80,108,36,0.5)">
-      <div class="container pt-60 pb-60">
-        <div class="row">
-          <div class="col-md-8 col-md-offset-2">
-              <h2 class="text-uppercase mt-0 pb-0  text-center text-white">Our Students say</h2>
-            <div class="owl-carousel-1col" data-dots="true">
-              <div class="item">
-                <div class="testimonial-wrapper text-center">
-                  <div class="thumb"><img class="" alt="" src="images/testimonials/1.jpg"></div>
-                  <div class="content pt-10">
-                    <p class="lead text-white">"Studying at ACT has been a life-changing experience. The rich tapestry of knowledge, combined with the nurturing environment, has fueled my passion for theology and ignited a sense of purpose within me. The faculty's dedication to our growth and the vibrant community here have made my journey truly transformative."</p>
-                    <h4 class="author text-white mb-0">Emily Muhire</h4>
-                    <h6 class="title text-white mt-0 mb-15">Student</h6>
-                  </div>
-                </div>
-              </div>
-              <div class="item">
-                <div class="testimonial-wrapper text-center">
-                  <div class="thumb"><img class="" alt="" src="images/testimonials/2.jpg"></div>
-                  <div class="content pt-10">
-                    <p class="lead text-white">"As a student at ACT, I've found not only academic rigor but also a deep sense of belonging. The diverse perspectives and the shared commitment to faith have enriched my understanding of theology and spirituality. ACT has not only prepared me for a career but has also equipped me to make a meaningful difference in my community."</p>
-                    <h4 class="author text-white mb-0">Isaac Musoni</h4>
-                    <h6 class="title text-white mt-0 mb-15">Student</h6>
-                  </div>
-                </div>
-              </div>
-              <div class="item">
-                <div class="testimonial-wrapper text-center">
-                  <div class="thumb"><img class="" alt="" src="images/testimonials/3.jpg"></div>
-                  <div class="content pt-10">
-                    <p class="lead text-white">"ACT has exceeded my expectations in every way. The supportive faculty, coupled with the vibrant student life, has made my time here unforgettable. Through engaging discussions and practical experiences, I've not only expanded my knowledge but also deepened my faith. I am grateful for the opportunities for personal and academic growth that ACT has provided me."</p>
-                    <h4 class="author text-white mb-0">Grace Uwase</h4>
-                    <h6 class="title text-white mt-0 mb-15">Student</h6>
-                  </div>
-                </div>
-              </div>
-            </div>
           </div>
         </div>
       </div>
