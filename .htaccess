@@ -1,0 +1,34 @@
+RewriteOptions inherit
+RewriteEngine on
+
+# Remove .Html Extension
+DirectorySlash Off
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^(.*)$ $1.html [L]
+
+# Remove .Php Extension
+DirectorySlash Off
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*)$ $1.php [L]
+
+# Disable directory listing
+Options -Indexes
+
+# Block XML-RPC
+<Files xmlrpc.php>
+Order Deny,Allow
+Deny from all
+</Files>
+
+# Keep raw config, logs and editor leftovers private
+<FilesMatch "^(htaccess|error_log|php\.ini)$">
+Order Deny,Allow
+Deny from all
+</FilesMatch>
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php81” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php81 .php .php8 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit
