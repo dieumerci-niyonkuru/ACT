@@ -373,7 +373,7 @@
         <div class="row">
           <div class="col-md-4 col-sm-5 mb-sm-30">
             <div class="act-principal-photo">
-              <img class="img-responsive img-fullwidth" src="images/team/pro-nathan.jpg" alt="Prof. Nathan Chiroma, Principal of Africa College of Theology">
+              <img class="img-responsive img-fullwidth" src="images/team/nathan-chiroma.jpg" alt="Prof. Nathan Chiroma, Principal of Africa College of Theology">
             </div>
             <h4 class="mt-15 mb-0">Prof. Nathan Chiroma</h4>
             <p class="text-theme-colored font-weight-600 mb-0">Principal</p>
@@ -521,7 +521,7 @@
 
           <div class="col-xs-6 col-sm-6 col-md-3 mb-30">
             <div class="act-faculty-card">
-              <img class="img-responsive img-fullwidth" src="images/team/pro-nathan.jpg" alt="Prof. Nathan Chiroma">
+              <img class="img-responsive img-fullwidth" src="images/team/nathan-chiroma.jpg" alt="Prof. Nathan Chiroma">
               <div class="act-faculty-body">
                 <h4 class="mt-0 mb-5">Prof. Nathan Chiroma</h4>
                 <p class="mb-0">Principal</p>
@@ -531,7 +531,7 @@
 
           <div class="col-xs-6 col-sm-6 col-md-3 mb-30">
             <div class="act-faculty-card">
-              <img class="img-responsive img-fullwidth" src="images/team/ben05017.jpg" alt="Dr. Manase Ogola">
+              <img class="img-responsive img-fullwidth" src="images/team/manase-ogola.jpg" alt="Dr. Manase Ogola">
               <div class="act-faculty-body">
                 <h4 class="mt-0 mb-5">Dr. Manase Ogola</h4>
                 <p class="mb-0">Deputy Principal, Academic Affairs</p>
@@ -541,7 +541,7 @@
 
           <div class="col-xs-6 col-sm-6 col-md-3 mb-30">
             <div class="act-faculty-card">
-              <img class="img-responsive img-fullwidth" src="images/team/copyannet.jpeg" alt="Mrs. Annet Kyomugisha">
+              <img class="img-responsive img-fullwidth" src="images/team/annet-kyomugisha.jpeg" alt="Mrs. Annet Kyomugisha">
               <div class="act-faculty-body">
                 <h4 class="mt-0 mb-5">Mrs. Annet Kyomugisha</h4>
                 <p class="mb-0">Deputy Principal, Administration</p>
@@ -551,7 +551,7 @@
 
           <div class="col-xs-6 col-sm-6 col-md-3 mb-30">
             <div class="act-faculty-card">
-              <img class="img-responsive img-fullwidth" src="images/gallery/jidith.jpeg" alt="Dr. Tindimwebwa Judith">
+              <img class="img-responsive img-fullwidth" src="images/team/judith-tindimwebwa.jpeg" alt="Dr. Tindimwebwa Judith">
               <div class="act-faculty-body">
                 <h4 class="mt-0 mb-5">Dr. Tindimwebwa Judith</h4>
                 <p class="mb-0">Director of Quality Assurance</p>
@@ -762,7 +762,7 @@
             <div class="owl-carousel-6col transparent text-center owl-nav-top">
               <div class="item"> <img src="images/clients/w3.png" alt="ACT sponsor"></div>
               <div class="item"> <img src="images/clients/w4.png" alt="ACT sponsor"></div>
-              <div class="item"> <img src="images/clients/download (1).png" alt="ACT sponsor"></div>
+              <div class="item"> <img src="images/clients/sponsor-1.png" alt="ACT sponsor"></div>
               <div class="item"> <img src="images/clients/w5.png" alt="ACT sponsor"></div>
               <div class="item"> <img src="images/clients/logo-nlbc.png" alt="New Life Bible Church"></div>
               <!--<div class="item"> <a href="#"><img src="images/clients/w3.pg" alt=""></a></div>-->

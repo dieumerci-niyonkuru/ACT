@@ -579,13 +579,13 @@
         [
             'name'  => 'DR. TINDIMWEBWA JUDITH',
             'title' => 'Lecturer / Director of Quality Assurance',
-            'img'   => 'images/gallery/jidith.jpeg',
+            'img'   => 'images/team/judith-tindimwebwa.jpeg',
             'alt'   => 'Dr. Tindimwebwa Judith',
         ],
         [
             'name'  => 'MRS. ANNET KYOMUGISHA',
             'title' => 'Deputy Principal Administration and Operations',
-            'img'   => 'images/team/copyannet.jpeg',
+            'img'   => 'images/team/annet-kyomugisha.jpeg',
             'alt'   => 'Mrs. Annet Kyomugisha',
         ],
         [

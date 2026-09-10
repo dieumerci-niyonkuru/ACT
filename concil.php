@@ -47,7 +47,7 @@
               <!--<div class="item">-->
               <!--  <div class="team-members border-bottom-theme-color-2px text-center maxwidth400">-->
               <!--    <div class="team-thumb">-->
-              <!--      <img class="img-fullwidth" alt="" src="images/act/prof-by.jpg">-->
+              <!--      <img class="img-fullwidth" alt="" src="images/act/michael-biryabarema.jpg">-->
               <!--      <div class="team-overlay"></div>-->
               <!--    </div>-->
               <!--    <div class="team-details bg-silver-light pt-10 pb-10">-->
@@ -65,7 +65,7 @@
               <div class="item">
                 <div class="team-members border-bottom-theme-color-2px text-center maxwidth400">
                   <div class="team-thumb">
-                    <img class="img-fullwidth" alt="" src="images/act/rev-jimm.jpg">
+                    <img class="img-fullwidth" alt="" src="images/act/james-muyango.jpg">
                     <div class="team-overlay"></div>
                   </div>
                   <div class="team-details bg-silver-light pt-10 pb-10">
@@ -209,7 +209,7 @@
               <div class="item">
                 <div class="team-members border-bottom-theme-color-2px text-center maxwidth400">
                   <div class="team-thumb">
-                    <img class="img-fullwidth" alt="" src="images/act/whatsapp-image-2025-05-14-at-15-20-21-15325d3d.jpg">
+                    <img class="img-fullwidth" alt="" src="images/act/fidele-masengo.jpg">
                     <div class="team-overlay"></div>
                   </div>
                   <div class="team-details bg-silver-light pt-10 pb-10">
@@ -221,7 +221,7 @@
                 <div class="item">
                 <div class="team-members border-bottom-theme-color-2px text-center maxwidth400">
                   <div class="team-thumb">
-                    <img class="img-fullwidth" alt="" src="images/act/whatsapp-image-2025-08-05-at-16-51-42.jpeg">
+                    <img class="img-fullwidth" alt="" src="images/act/john-nkubana.jpeg">
                     <div class="team-overlay"></div>
                   </div>
                   <div class="team-details bg-silver-light pt-10 pb-10">

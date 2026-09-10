@@ -39,7 +39,7 @@
             </div>
             <div class="col-sx-12 col-sm-4 col-md-4 sidebar pull-left">
               <div class="doctor-thumb">
-                <img src="images/act/prof-by.jpg" alt="">
+                <img src="images/act/michael-biryabarema.jpg" alt="">
               </div>
               <h4 class="line-bottom">Late Prof. Michael Biryabarema</h4>
             </div>

@@ -28,7 +28,7 @@
                 <h4 class="widget-title title-dots center"><span>Our History</span></h4>
               </div>
              <div class="col-md-4">
-            <img class="pull-left flip mr-15 thumbnail" src="images/act/act-founderscopy.jpg" alt="">
+            <img class="pull-left flip mr-15 thumbnail" src="images/act/act-founders-photo.jpg" alt="">
             <h5>The Founders - Rev.Dr.Charles and Florence Mugisha</h5>
             </div>
             <div class="col-md-8">
