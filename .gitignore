@@ -26,3 +26,10 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 .DS_Store
+
+# --- Unreferenced media archives ----------------------------------------------
+# Zipped duplicates of photos already extracted under images/team/, and a video no
+# page uses. Kept on disk, not in the repo (they were 121 MB of the push).
+images/team/website-photos.zip
+images/team/student-council.zip
+documents/whatsapp-video-2024-11-26-at-12-05-19-252c3454.mp4
